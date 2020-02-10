@@ -1,0 +1,213 @@
+2017-10-12 15:33:13 - PHP Warning:  is_dir() expects parameter 1 to be a valid path, string given in /web/htdocs2/flakoncz/home/www/system/engine/action.php on line 16
+2017-10-12 15:33:13 - PHP Warning:  is_file() expects parameter 1 to be a valid path, string given in /web/htdocs2/flakoncz/home/www/system/engine/action.php on line 24
+2017-10-14 1:07:02 - PHP Warning:  is_dir() expects parameter 1 to be a valid path, string given in /web/htdocs2/flakoncz/home/www/system/engine/action.php on line 16
+2017-10-14 1:07:02 - PHP Warning:  is_file() expects parameter 1 to be a valid path, string given in /web/htdocs2/flakoncz/home/www/system/engine/action.php on line 24
+2017-10-15 16:36:55 - PHP Warning:  is_dir() expects parameter 1 to be a valid path, string given in /web/htdocs2/flakoncz/home/www/system/engine/action.php on line 16
+2017-10-15 16:36:55 - PHP Warning:  is_file() expects parameter 1 to be a valid path, string given in /web/htdocs2/flakoncz/home/www/system/engine/action.php on line 24
+2017-10-16 0:56:56 - PP_STANDARD :: IPN REQUEST: cmd=_notify-validate&invoice=468+-+Ruhanaz+Hoque&first_name=Ruhanaz&discount=23.00&mc_currency=GBP&payer_status=verified&shipping_discount=0.00&payment_fee=&address_status=confirmed&payment_gross=&address_zip=UB68EY&txn_type=cart&num_cart_items=7&address_country_code=GB&verify_sign=AONs6nB5FiqD3XhoyRVf9i1Fh5ZtArTplUoeD9gsiAvflpcOUOFKib69&payer_id=H7AHGZ2QKEMHN&charset=windows-1252&receiver_id=XUYZZ59GT6NWE&item_name1=&item_name2=&item_name3=&item_name4=&payment_type=instant&item_name5=&item_name6=&item_name7=&address_street=64+Hicks+avenue&txn_id=8R017797AK257390V&mc_gross_1=12.48&quantity1=2&mc_gross_2=12.48&quantity2=2&item_number1=FS121&protection_eligibility=Eligible&mc_gross_3=18.72&quantity3=3&item_number2=FS122&mc_gross_4=12.48&quantity4=2&item_number3=FS123&mc_gross_5=6.24&quantity5=1&custom=468&item_number4=FS124&mc_gross_6=6.83&quantity6=1&item_number5=FS42&mc_gross_7=6.83&quantity7=1&item_number6=FE131&business=oktagon%40seznam.cz&item_number7=FE+13&residence_country=GB&last_name=Hoque&address_state=&payer_business_name=Sophia%27s+Emporium&payer_email=sales%40sophias-emporium.uk&address_city=Greenford&payment_status=Completed&payment_date=15%3A56%3A49+Oct+15%2C+2017+PDT&transaction_subject=&receiver_email=oktagon%40seznam.cz&mc_fee=2.27&notify_version=3.8&shipping_method=Default&address_country=United+Kingdom&mc_gross=53.06&insurance_amount=0.00&address_name=Ruhanaz+Hoque&ipn_track_id=cb3b28c3c347f
+2017-10-16 0:56:56 - PP_STANDARD :: IPN RESPONSE: INVALID
+2017-10-19 2:18:35 - PHP Warning:  is_dir() expects parameter 1 to be a valid path, string given in /web/htdocs2/flakoncz/home/www/system/engine/action.php on line 16
+2017-10-19 2:18:35 - PHP Warning:  is_file() expects parameter 1 to be a valid path, string given in /web/htdocs2/flakoncz/home/www/system/engine/action.php on line 24
+2017-10-25 14:20:02 - PHP Warning:  is_dir() expects parameter 1 to be a valid path, string given in /web/htdocs2/flakoncz/home/www/system/engine/action.php on line 16
+2017-10-25 14:20:02 - PHP Warning:  is_file() expects parameter 1 to be a valid path, string given in /web/htdocs2/flakoncz/home/www/system/engine/action.php on line 24
+2017-10-25 22:51:38 - PHP Warning:  is_dir() expects parameter 1 to be a valid path, string given in /web/htdocs2/flakoncz/home/www/system/engine/action.php on line 16
+2017-10-25 22:51:38 - PHP Warning:  is_file() expects parameter 1 to be a valid path, string given in /web/htdocs2/flakoncz/home/www/system/engine/action.php on line 24
+2017-10-25 22:51:58 - PHP Warning:  is_dir() expects parameter 1 to be a valid path, string given in /web/htdocs2/flakoncz/home/www/system/engine/action.php on line 16
+2017-10-25 22:51:58 - PHP Warning:  is_file() expects parameter 1 to be a valid path, string given in /web/htdocs2/flakoncz/home/www/system/engine/action.php on line 24
+2017-10-27 12:41:05 - PHP Warning:  is_dir() expects parameter 1 to be a valid path, string given in /web/htdocs2/flakoncz/home/www/system/engine/action.php on line 16
+2017-10-27 12:41:05 - PHP Warning:  is_file() expects parameter 1 to be a valid path, string given in /web/htdocs2/flakoncz/home/www/system/engine/action.php on line 24
+2017-10-30 22:49:47 - PP_STANDARD :: IPN REQUEST: cmd=_notify-validate&mc_gross=33.03&invoice=471+-+Fernando+Gracia+Galvez&protection_eligibility=Eligible&address_status=confirmed&item_number1=FMM02&item_number2=VZRC13&payer_id=7QF6C6VDEXPLU&item_number3=FS117&address_street=&item_number4=FS108&payment_date=14%3A49%3A34+Oct+30%2C+2017+PDT&item_number5=&payment_status=Completed&charset=windows-1252&address_zip=50018&first_name=fernando&mc_fee=1.47&address_country_code=ES&address_name=Fernando+Gracia+Galvez&notify_version=3.8&custom=471&payer_status=verified&business=oktagon%40seznam.cz&address_country=Spain&num_cart_items=5&address_city=Zaragoza&verify_sign=AlhesFzA4dmph6y7YYawCO64bWb4APBLoteZGCm8-gEdgJv.Xt42bnIE&payer_email=grefer755%40hotmail.com&txn_id=8DE65282X36158039&payment_type=instant&last_name=galvez&address_state=&item_name1=&receiver_email=oktagon%40seznam.cz&item_name2=&payment_fee=&item_name3=&item_name4=&item_name5=&quantity1=1&quantity2=1&receiver_id=XUYZZ59GT6NWE&quantity3=1&txn_type=cart&quantity4=1&quantity5=1&mc_gross_1=5.60&mc_currency=EUR&mc_gross_2=11.94&mc_gross_3=6.28&residence_country=ES&mc_gross_4=7.06&mc_gross_5=2.15&transaction_subject=&payment_gross=&ipn_track_id=e6712f6ed8472
+2017-10-30 22:49:47 - PP_STANDARD :: IPN RESPONSE: INVALID
+2017-11-03 22:16:54 - PP_STANDARD :: IPN REQUEST: cmd=_notify-validate&invoice=464+-+ANDREIA+AUGAITIS&first_name=Andreia&discount=0.00&mc_shipping=0.00&mc_currency=USD&shipping_discount=0.00&payment_fee=-2.18&payment_gross=-32.66&address_zip=03127-000&address_country_code=BR&mc_handling=0.00&verify_sign=AEm8ufqq-ZcpqH1y2vn8RJGo9HNOAOvlF4dhNR5ADDm0wQYwFHdWYNIQ&payer_id=UNKN89N6FUZAN&charset=windows-1252&tax1=0.00&receiver_id=XUYZZ59GT6NWE&tax2=0.00&tax3=0.00&tax4=0.00&mc_handling1=0.00&mc_handling2=0.00&mc_handling3=0.00&mc_handling4=0.00&item_name1=Flakon+s+mosaznou+mont%C3%A1%C5%BE%C3%AD+02+-+slun%C3%AD%C4%8Dko+v+lese&item_name2=Flakon+standart+117+-+%C4%8Derven%C3%BD+kulat%C3%BD+k%C3%A1men&item_name3=Flakon+p%C3%ADsmeno+K&item_name4=Doprava%2C+doru%C4%8Den%C3%AD%2C+slevy+a+dan%C4%9B&payment_type=instant&mc_shipping1=0.00&address_street=&mc_shipping2=0.00&mc_shipping3=0.00&txn_id=7G348670SR594432X&mc_shipping4=0.00&reason_code=buyer_complaint&mc_gross_1=6.58&quantity1=1&mc_gross_2=7.38&quantity2=1&item_number1=FMM02&protection_eligibility=Eligible&mc_gross_3=18.14&quantity3=2&item_number2=FS117&mc_gross_4=2.74&quantity4=1&item_number3=FPK&custom=464&item_number4=&business=oktagon%40seznam.cz&residence_country=BR&last_name=Augaitis&address_state=SP&payer_email=amodamultimarcas%40gmail.com&address_city=&payment_status=Reversed&payment_date=14%3A16%3A41+Nov+03%2C+2017+PDT&parent_txn_id=0Y111708G3449823H&transaction_subject=&receiver_email=oktagon%40seznam.cz&mc_fee=-2.18&notify_version=3.8&shipping_method=Default&address_country=Brazil&mc_gross=-32.66&insurance_amount=0.00&address_name=ANDREIA+AUGAITIS&ipn_track_id=4236702e75368
+2017-11-03 22:16:54 - PP_STANDARD :: IPN RESPONSE: INVALID
+2017-11-03 22:18:12 - PP_STANDARD :: IPN REQUEST: cmd=_notify-validate&txn_type=new_case&payment_date=03%3A24%3A48+Sep+19%2C+2017+PDT&case_id=PP-006-303-208-214&case_type=dispute&business=oktagon%40seznam.cz&verify_sign=ApZwcZsoP.0EhLY44k88Z0WcxxqnABwHwH7oUIP8ln6.KRjGiWiyQ-Bz&payer_email=amodamultimarcas%40gmail.com&txn_id=0Y111708G3449823H&case_creation_date=14%3A15%3A27+Nov+03%2C+2017+PDT&receiver_email=oktagon%40seznam.cz&buyer_additional_information=Not+received+till+now%2C+could+you+please+send+me+the+track+number%3F&payer_id=UNKN89N6FUZAN&invoice=464+-+ANDREIA+AUGAITIS&receiver_id=XUYZZ59GT6NWE&reason_code=non_receipt&custom=464&charset=windows-1252&notify_version=3.8&ipn_track_id=4a3cc444284bc
+2017-11-03 22:18:12 - PP_STANDARD :: IPN RESPONSE: VERIFIED
+2017-11-04 15:49:40 - PP_STANDARD :: IPN REQUEST: cmd=_notify-validate&mc_gross=46.48&invoice=473+-+ANDREIA+AUGAITIS&protection_eligibility=Eligible&address_status=confirmed&item_number1=FN32&item_number2=FC66&payer_id=UNKN89N6FUZAN&item_number3=FC70&address_street=&item_number4=FN54&payment_date=07%3A49%3A26+Nov+04%2C+2017+PDT&item_number5=FN14&item_number6=FC44&payment_status=Completed&charset=windows-1252&address_zip=03127-000&first_name=Andreia&mc_fee=2.81&address_country_code=BR&address_name=ANDREIA+AUGAITIS&notify_version=3.8&custom=473&payer_status=verified&business=oktagon%40seznam.cz&address_country=Brazil&num_cart_items=6&address_city=&verify_sign=A9aObxvL3OiiMd9wr7BQYhzuyFrmA05PaT23nIRnyCwc5f8RUu96BAwr&payer_email=amodamultimarcas%40gmail.com&txn_id=4DV905895X420174F&payment_type=instant&last_name=Augaitis&address_state=SP&item_name1=&receiver_email=oktagon%40seznam.cz&item_name2=&payment_fee=2.81&item_name3=&item_name4=&shipping_discount=0.00&item_name5=&item_name6=&quantity1=2&insurance_amount=0.00&quantity2=1&receiver_id=XUYZZ59GT6NWE&quantity3=2&txn_type=cart&quantity4=2&discount=0.64&quantity5=1&quantity6=2&mc_gross_1=6.08&mc_currency=USD&mc_gross_2=5.97&mc_gross_3=11.94&residence_country=BR&mc_gross_4=7.46&shipping_method=Default&mc_gross_5=3.73&transaction_subject=&mc_gross_6=11.94&payment_gross=46.48&ipn_track_id=912eddd09ed90
+2017-11-04 15:49:40 - PP_STANDARD :: IPN RESPONSE: INVALID
+2017-11-08 14:11:49 - PP_STANDARD :: IPN REQUEST: cmd=_notify-validate&mc_gross=31.42&invoice=474+-+Fernando+Gracia+Galvez&protection_eligibility=Eligible&address_status=confirmed&item_number1=FO88&item_number2=FPP&payer_id=7QF6C6VDEXPLU&item_number3=FE144&address_street=&item_number4=FE131&payment_date=05%3A11%3A36+Nov+08%2C+2017+PST&item_number5=&payment_status=Completed&charset=windows-1252&address_zip=50018&first_name=fernando&mc_fee=1.42&address_country_code=ES&address_name=Fernando+Gracia+Galvez&notify_version=3.8&custom=474&payer_status=verified&business=oktagon%40seznam.cz&address_country=Spain&num_cart_items=5&address_city=Zaragoza&verify_sign=AhK9GqXeCBH2TIOz5e3GGCr98qk.AV5JB.FJcOIxRtrLIENrYKZuZ6VD&payer_email=grefer755%40hotmail.com&txn_id=3TN201294U045580N&payment_type=instant&last_name=galvez&address_state=&item_name1=&receiver_email=oktagon%40seznam.cz&item_name2=&payment_fee=&item_name3=&item_name4=&item_name5=&quantity1=1&quantity2=1&receiver_id=XUYZZ59GT6NWE&quantity3=1&txn_type=cart&quantity4=1&quantity5=1&mc_gross_1=6.02&mc_currency=EUR&mc_gross_2=7.72&mc_gross_3=7.72&residence_country=ES&mc_gross_4=7.72&mc_gross_5=2.24&transaction_subject=&payment_gross=&ipn_track_id=a599b77a4bd2d
+2017-11-08 14:11:49 - PP_STANDARD :: IPN RESPONSE: INVALID
+2017-11-10 5:20:05 - PHP Warning:  is_dir() expects parameter 1 to be a valid path, string given in /web/htdocs2/flakoncz/home/www/system/engine/action.php on line 16
+2017-11-10 5:20:05 - PHP Warning:  is_file() expects parameter 1 to be a valid path, string given in /web/htdocs2/flakoncz/home/www/system/engine/action.php on line 24
+2017-11-10 7:38:13 - PHP Warning:  is_dir() expects parameter 1 to be a valid path, string given in /web/htdocs2/flakoncz/home/www/system/engine/action.php on line 16
+2017-11-10 7:38:13 - PHP Warning:  is_file() expects parameter 1 to be a valid path, string given in /web/htdocs2/flakoncz/home/www/system/engine/action.php on line 24
+2017-11-10 9:58:48 - PHP Warning:  is_dir() expects parameter 1 to be a valid path, string given in /web/htdocs2/flakoncz/home/www/system/engine/action.php on line 16
+2017-11-10 9:58:48 - PHP Warning:  is_file() expects parameter 1 to be a valid path, string given in /web/htdocs2/flakoncz/home/www/system/engine/action.php on line 24
+2017-11-13 2:18:34 - PHP Warning:  file_get_contents(/web/htdocs2/flakoncz/home/www/system/cache/cache.language.1510535887): failed to open stream: Stale file handle in /web/htdocs2/flakoncz/home/www/system/library/cache.php on line 9
+2017-11-15 9:45:05 - PP_STANDARD :: IPN REQUEST: cmd=_notify-validate&mc_gross=1059.00&invoice=&protection_eligibility=Eligible&address_status=confirmed&item_number1=FS116&item_number2=FE+13&payer_id=5ETDT5B8X6Y5L&item_number3=FSKOJ02&address_street=&item_number4=FKBO01&payment_date=00%3A44%3A53+Nov+15%2C+2017+PST&item_number5=SNB15ml07&item_number6=S20ISAJ&payment_status=Completed&charset=windows-1252&address_zip=73932&first_name=Renata&mc_fee=46.01&address_country_code=CZ&address_name=&notify_version=3.8&custom=477&payer_status=unverified&business=oktagon%40seznam.cz&address_country=Czech+Republic&num_cart_items=6&address_city=Vratimov&verify_sign=AM5-Oovzc9KF7Dab-2iYZd-KbZy3ASXqCTM1nvKMUeaG11LjlS3pO.KM&payer_email=krestovar%40seznam.cz&txn_id=8J514252CT2657545&payment_type=instant&last_name=Krestova&address_state=&item_name1=&receiver_email=oktagon%40seznam.cz&item_name2=&payment_fee=&item_name3=&item_name4=&shipping_discount=0.00&item_name5=&item_name6=&quantity1=1&insurance_amount=0.00&quantity2=1&receiver_id=XUYZZ59GT6NWE&quantity3=2&txn_type=cart&quantity4=1&discount=18.00&quantity5=1&quantity6=2&mc_gross_1=182.00&mc_currency=CZK&mc_gross_2=198.00&mc_gross_3=304.00&residence_country=CZ&mc_gross_4=301.00&shipping_method=Default&mc_gross_5=74.00&transaction_subject=&mc_gross_6=18.00&payment_gross=&ipn_track_id=c1a9d41c3eca2
+2017-11-15 9:45:05 - PP_STANDARD :: IPN RESPONSE: INVALID
+2020-02-07 11:07:26 - PHP Notice:  Undefined index: filename in /web/htdocs2/flakoncz/home/www/admin/index.php on line 124
+2020-02-07 11:07:26 - PHP Notice:  Error: Could not load language ! in /web/htdocs2/flakoncz/home/www/system/library/language.php on line 39
+2020-02-07 11:07:29 - PHP Notice:  Undefined index: filename in /web/htdocs2/flakoncz/home/www/admin/index.php on line 124
+2020-02-07 11:07:29 - PHP Notice:  Error: Could not load language ! in /web/htdocs2/flakoncz/home/www/system/library/language.php on line 39
+2020-02-07 11:07:29 - PHP Notice:  unserialize(): Error at offset 0 of 13595 bytes in /web/htdocs2/flakoncz/home/www/system/library/user.php on line 47
+2020-02-07 11:07:29 - PHP Notice:  Undefined index: filename in /web/htdocs2/flakoncz/home/www/admin/index.php on line 124
+2020-02-07 11:07:29 - PHP Notice:  Error: Could not load language ! in /web/htdocs2/flakoncz/home/www/system/library/language.php on line 39
+2020-02-07 11:07:29 - PHP Notice:  unserialize(): Error at offset 0 of 13595 bytes in /web/htdocs2/flakoncz/home/www/system/library/user.php on line 23
+2020-02-07 11:07:29 - PHP Warning:  fopen(/web/htdocs2/flakoncz/home/www/download/test): failed to open stream: No such file or directory in /web/htdocs2/flakoncz/home/www/admin/controller/common/home.php on line 99
+2020-02-07 11:07:29 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /web/htdocs2/flakoncz/home/www/admin/controller/common/home.php on line 101
+2020-02-07 11:07:29 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /web/htdocs2/flakoncz/home/www/admin/controller/common/home.php on line 103
+2020-02-07 11:07:32 - PHP Notice:  Undefined index: filename in /web/htdocs2/flakoncz/home/www/admin/index.php on line 124
+2020-02-07 11:07:32 - PHP Notice:  Error: Could not load language ! in /web/htdocs2/flakoncz/home/www/system/library/language.php on line 39
+2020-02-07 11:07:32 - PHP Notice:  unserialize(): Error at offset 0 of 13595 bytes in /web/htdocs2/flakoncz/home/www/system/library/user.php on line 23
+2020-02-07 11:07:36 - PHP Notice:  Undefined index: filename in /web/htdocs2/flakoncz/home/www/admin/index.php on line 124
+2020-02-07 11:07:36 - PHP Notice:  Error: Could not load language ! in /web/htdocs2/flakoncz/home/www/system/library/language.php on line 39
+2020-02-07 11:07:36 - PHP Notice:  unserialize(): Error at offset 0 of 13595 bytes in /web/htdocs2/flakoncz/home/www/system/library/user.php on line 23
+2020-02-07 11:07:36 - PHP Notice:  unserialize(): Error at offset 0 of 13595 bytes in /web/htdocs2/flakoncz/home/www/system/library/user.php on line 47
+2020-02-07 11:07:36 - PHP Notice:  Undefined index: filename in /web/htdocs2/flakoncz/home/www/admin/index.php on line 124
+2020-02-07 11:07:36 - PHP Notice:  Error: Could not load language ! in /web/htdocs2/flakoncz/home/www/system/library/language.php on line 39
+2020-02-07 11:07:36 - PHP Notice:  unserialize(): Error at offset 0 of 13595 bytes in /web/htdocs2/flakoncz/home/www/system/library/user.php on line 23
+2020-02-07 11:07:36 - PHP Warning:  fopen(/web/htdocs2/flakoncz/home/www/download/test): failed to open stream: No such file or directory in /web/htdocs2/flakoncz/home/www/admin/controller/common/home.php on line 99
+2020-02-07 11:07:36 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /web/htdocs2/flakoncz/home/www/admin/controller/common/home.php on line 101
+2020-02-07 11:07:36 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /web/htdocs2/flakoncz/home/www/admin/controller/common/home.php on line 103
+2020-02-07 11:14:09 - PHP Notice:  Undefined index: filename in /web/htdocs2/flakoncz/home/www/admin/index.php on line 124
+2020-02-07 11:14:09 - PHP Notice:  Error: Could not load language ! in /web/htdocs2/flakoncz/home/www/system/library/language.php on line 39
+2020-02-07 11:14:09 - PHP Notice:  unserialize(): Error at offset 0 of 13595 bytes in /web/htdocs2/flakoncz/home/www/system/library/user.php on line 23
+2020-02-07 11:14:10 - PHP Notice:  Undefined index: filename in /web/htdocs2/flakoncz/home/www/admin/index.php on line 124
+2020-02-07 11:14:10 - PHP Notice:  Error: Could not load language ! in /web/htdocs2/flakoncz/home/www/system/library/language.php on line 39
+2020-02-07 11:14:10 - PHP Notice:  unserialize(): Error at offset 0 of 13595 bytes in /web/htdocs2/flakoncz/home/www/system/library/user.php on line 23
+2020-02-07 11:14:20 - PHP Notice:  Undefined index: filename in /web/htdocs2/flakoncz/home/www/admin/index.php on line 124
+2020-02-07 11:14:20 - PHP Notice:  Error: Could not load language ! in /web/htdocs2/flakoncz/home/www/system/library/language.php on line 39
+2020-02-07 11:14:20 - PHP Notice:  unserialize(): Error at offset 0 of 13595 bytes in /web/htdocs2/flakoncz/home/www/system/library/user.php on line 23
+2020-02-07 11:14:20 - PHP Notice:  unserialize(): Error at offset 0 of 13595 bytes in /web/htdocs2/flakoncz/home/www/system/library/user.php on line 47
+2020-02-07 11:14:20 - PHP Notice:  Undefined index: filename in /web/htdocs2/flakoncz/home/www/admin/index.php on line 124
+2020-02-07 11:14:20 - PHP Notice:  Error: Could not load language ! in /web/htdocs2/flakoncz/home/www/system/library/language.php on line 39
+2020-02-07 11:14:20 - PHP Notice:  unserialize(): Error at offset 0 of 13595 bytes in /web/htdocs2/flakoncz/home/www/system/library/user.php on line 23
+2020-02-07 11:14:20 - PHP Warning:  fopen(/web/htdocs2/flakoncz/home/www/download/test): failed to open stream: No such file or directory in /web/htdocs2/flakoncz/home/www/admin/controller/common/home.php on line 99
+2020-02-07 11:14:20 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /web/htdocs2/flakoncz/home/www/admin/controller/common/home.php on line 101
+2020-02-07 11:14:20 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /web/htdocs2/flakoncz/home/www/admin/controller/common/home.php on line 103
+2020-02-07 11:15:43 - PHP Notice:  Undefined index: filename in /web/htdocs2/flakoncz/home/www/admin/index.php on line 124
+2020-02-07 11:15:43 - PHP Notice:  Error: Could not load language ! in /web/htdocs2/flakoncz/home/www/system/library/language.php on line 39
+2020-02-07 11:15:43 - PHP Notice:  unserialize(): Error at offset 0 of 13595 bytes in /web/htdocs2/flakoncz/home/www/system/library/user.php on line 23
+2020-02-07 11:15:43 - PHP Warning:  fopen(/web/htdocs2/flakoncz/home/www/download/test): failed to open stream: No such file or directory in /web/htdocs2/flakoncz/home/www/admin/controller/common/home.php on line 99
+2020-02-07 11:15:43 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /web/htdocs2/flakoncz/home/www/admin/controller/common/home.php on line 101
+2020-02-07 11:15:43 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /web/htdocs2/flakoncz/home/www/admin/controller/common/home.php on line 103
+2020-02-07 11:17:38 - PHP Notice:  Undefined index: filename in /web/htdocs2/flakoncz/home/www/admin/index.php on line 124
+2020-02-07 11:17:38 - PHP Notice:  Error: Could not load language ! in /web/htdocs2/flakoncz/home/www/system/library/language.php on line 39
+2020-02-07 11:17:38 - PHP Notice:  unserialize(): Error at offset 0 of 13595 bytes in /web/htdocs2/flakoncz/home/www/system/library/user.php on line 23
+2020-02-07 11:17:38 - PHP Warning:  fopen(/web/htdocs2/flakoncz/home/www/download/test): failed to open stream: No such file or directory in /web/htdocs2/flakoncz/home/www/admin/controller/common/home.php on line 99
+2020-02-07 11:17:38 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /web/htdocs2/flakoncz/home/www/admin/controller/common/home.php on line 101
+2020-02-07 11:17:38 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /web/htdocs2/flakoncz/home/www/admin/controller/common/home.php on line 103
+2020-02-07 11:17:41 - PHP Notice:  Undefined index: filename in /web/htdocs2/flakoncz/home/www/admin/index.php on line 124
+2020-02-07 11:17:41 - PHP Notice:  Error: Could not load language ! in /web/htdocs2/flakoncz/home/www/system/library/language.php on line 39
+2020-02-07 11:17:41 - PHP Notice:  unserialize(): Error at offset 0 of 13595 bytes in /web/htdocs2/flakoncz/home/www/system/library/user.php on line 23
+2020-02-07 11:17:41 - PHP Warning:  fopen(/web/htdocs2/flakoncz/home/www/download/test): failed to open stream: No such file or directory in /web/htdocs2/flakoncz/home/www/admin/controller/common/home.php on line 99
+2020-02-07 11:17:41 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /web/htdocs2/flakoncz/home/www/admin/controller/common/home.php on line 101
+2020-02-07 11:17:41 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /web/htdocs2/flakoncz/home/www/admin/controller/common/home.php on line 103
+2020-02-07 11:17:44 - PHP Notice:  Undefined index: filename in /web/htdocs2/flakoncz/home/www/admin/index.php on line 124
+2020-02-07 11:17:44 - PHP Notice:  Error: Could not load language ! in /web/htdocs2/flakoncz/home/www/system/library/language.php on line 39
+2020-02-07 11:17:44 - PHP Notice:  unserialize(): Error at offset 0 of 13595 bytes in /web/htdocs2/flakoncz/home/www/system/library/user.php on line 23
+2020-02-07 11:17:44 - PHP Warning:  fopen(/web/htdocs2/flakoncz/home/www/download/test): failed to open stream: No such file or directory in /web/htdocs2/flakoncz/home/www/admin/controller/common/home.php on line 99
+2020-02-07 11:17:44 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /web/htdocs2/flakoncz/home/www/admin/controller/common/home.php on line 101
+2020-02-07 11:17:44 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /web/htdocs2/flakoncz/home/www/admin/controller/common/home.php on line 103
+2020-02-07 11:17:48 - PHP Notice:  Undefined index: filename in /web/htdocs2/flakoncz/home/www/admin/index.php on line 124
+2020-02-07 11:17:48 - PHP Notice:  Error: Could not load language ! in /web/htdocs2/flakoncz/home/www/system/library/language.php on line 39
+2020-02-07 11:17:48 - PHP Notice:  unserialize(): Error at offset 0 of 13595 bytes in /web/htdocs2/flakoncz/home/www/system/library/user.php on line 23
+2020-02-07 11:17:48 - PHP Notice:  Undefined index: filename in /web/htdocs2/flakoncz/home/www/admin/index.php on line 124
+2020-02-07 11:17:48 - PHP Notice:  Error: Could not load language ! in /web/htdocs2/flakoncz/home/www/system/library/language.php on line 39
+2020-02-07 11:17:48 - PHP Notice:  unserialize(): Error at offset 0 of 13595 bytes in /web/htdocs2/flakoncz/home/www/system/library/user.php on line 23
+2020-02-07 11:18:04 - PHP Notice:  Undefined index: filename in /web/htdocs2/flakoncz/home/www/admin/index.php on line 124
+2020-02-07 11:18:04 - PHP Notice:  Error: Could not load language ! in /web/htdocs2/flakoncz/home/www/system/library/language.php on line 39
+2020-02-07 11:18:04 - PHP Notice:  unserialize(): Error at offset 0 of 13595 bytes in /web/htdocs2/flakoncz/home/www/system/library/user.php on line 23
+2020-02-07 11:18:06 - PHP Notice:  Undefined index: filename in /web/htdocs2/flakoncz/home/www/admin/index.php on line 124
+2020-02-07 11:18:06 - PHP Notice:  Error: Could not load language ! in /web/htdocs2/flakoncz/home/www/system/library/language.php on line 39
+2020-02-07 11:18:06 - PHP Notice:  unserialize(): Error at offset 0 of 13595 bytes in /web/htdocs2/flakoncz/home/www/system/library/user.php on line 23
+2020-02-07 11:18:06 - PHP Notice:  unserialize(): Error at offset 0 of 13595 bytes in /web/htdocs2/flakoncz/home/www/system/library/user.php on line 47
+2020-02-07 11:18:06 - PHP Notice:  Undefined index: filename in /web/htdocs2/flakoncz/home/www/admin/index.php on line 124
+2020-02-07 11:18:06 - PHP Notice:  Error: Could not load language ! in /web/htdocs2/flakoncz/home/www/system/library/language.php on line 39
+2020-02-07 11:18:06 - PHP Notice:  unserialize(): Error at offset 0 of 13595 bytes in /web/htdocs2/flakoncz/home/www/system/library/user.php on line 23
+2020-02-07 11:18:06 - PHP Warning:  fopen(/web/htdocs2/flakoncz/home/www/download/test): failed to open stream: No such file or directory in /web/htdocs2/flakoncz/home/www/admin/controller/common/home.php on line 99
+2020-02-07 11:18:06 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /web/htdocs2/flakoncz/home/www/admin/controller/common/home.php on line 101
+2020-02-07 11:18:06 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /web/htdocs2/flakoncz/home/www/admin/controller/common/home.php on line 103
+2020-02-07 11:19:11 - PHP Notice:  Undefined index: filename in /web/htdocs2/flakoncz/home/www/admin/index.php on line 124
+2020-02-07 11:19:11 - PHP Notice:  Error: Could not load language ! in /web/htdocs2/flakoncz/home/www/system/library/language.php on line 39
+2020-02-07 11:19:11 - PHP Notice:  unserialize(): Error at offset 0 of 8023 bytes in /web/htdocs2/flakoncz/home/www/system/library/user.php on line 23
+2020-02-07 11:19:11 - PHP Warning:  fopen(/web/htdocs2/flakoncz/home/www/download/test): failed to open stream: No such file or directory in /web/htdocs2/flakoncz/home/www/admin/controller/common/home.php on line 99
+2020-02-07 11:19:11 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /web/htdocs2/flakoncz/home/www/admin/controller/common/home.php on line 101
+2020-02-07 11:19:11 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /web/htdocs2/flakoncz/home/www/admin/controller/common/home.php on line 103
+2020-02-07 11:19:12 - PHP Notice:  Undefined index: filename in /web/htdocs2/flakoncz/home/www/admin/index.php on line 124
+2020-02-07 11:19:12 - PHP Notice:  Error: Could not load language ! in /web/htdocs2/flakoncz/home/www/system/library/language.php on line 39
+2020-02-07 11:19:12 - PHP Notice:  unserialize(): Error at offset 0 of 8023 bytes in /web/htdocs2/flakoncz/home/www/system/library/user.php on line 23
+2020-02-07 11:19:23 - PHP Notice:  Undefined index: filename in /web/htdocs2/flakoncz/home/www/admin/index.php on line 124
+2020-02-07 11:19:23 - PHP Notice:  Error: Could not load language ! in /web/htdocs2/flakoncz/home/www/system/library/language.php on line 39
+2020-02-07 11:19:23 - PHP Notice:  unserialize(): Error at offset 0 of 8023 bytes in /web/htdocs2/flakoncz/home/www/system/library/user.php on line 23
+2020-02-07 11:19:23 - PHP Warning:  fopen(/web/htdocs2/flakoncz/home/www/download/test): failed to open stream: No such file or directory in /web/htdocs2/flakoncz/home/www/admin/controller/common/home.php on line 99
+2020-02-07 11:19:23 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /web/htdocs2/flakoncz/home/www/admin/controller/common/home.php on line 101
+2020-02-07 11:19:23 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /web/htdocs2/flakoncz/home/www/admin/controller/common/home.php on line 103
+2020-02-07 11:19:23 - PHP Notice:  Undefined index: filename in /web/htdocs2/flakoncz/home/www/admin/index.php on line 124
+2020-02-07 11:19:23 - PHP Notice:  Error: Could not load language ! in /web/htdocs2/flakoncz/home/www/system/library/language.php on line 39
+2020-02-07 11:19:23 - PHP Notice:  unserialize(): Error at offset 0 of 8023 bytes in /web/htdocs2/flakoncz/home/www/system/library/user.php on line 23
+2020-02-07 11:19:26 - PHP Notice:  Undefined index: filename in /web/htdocs2/flakoncz/home/www/admin/index.php on line 124
+2020-02-07 11:19:26 - PHP Notice:  Error: Could not load language ! in /web/htdocs2/flakoncz/home/www/system/library/language.php on line 39
+2020-02-07 11:19:26 - PHP Notice:  unserialize(): Error at offset 0 of 8023 bytes in /web/htdocs2/flakoncz/home/www/system/library/user.php on line 23
+2020-02-07 11:19:26 - PHP Warning:  fopen(/web/htdocs2/flakoncz/home/www/download/test): failed to open stream: No such file or directory in /web/htdocs2/flakoncz/home/www/admin/controller/common/home.php on line 99
+2020-02-07 11:19:26 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /web/htdocs2/flakoncz/home/www/admin/controller/common/home.php on line 101
+2020-02-07 11:19:26 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /web/htdocs2/flakoncz/home/www/admin/controller/common/home.php on line 103
+2020-02-07 11:19:26 - PHP Notice:  Undefined index: filename in /web/htdocs2/flakoncz/home/www/admin/index.php on line 124
+2020-02-07 11:19:26 - PHP Notice:  Error: Could not load language ! in /web/htdocs2/flakoncz/home/www/system/library/language.php on line 39
+2020-02-07 11:19:26 - PHP Notice:  unserialize(): Error at offset 0 of 8023 bytes in /web/htdocs2/flakoncz/home/www/system/library/user.php on line 23
+2020-02-07 11:20:12 - PHP Notice:  Undefined index: filename in /web/htdocs2/flakoncz/home/www/admin/index.php on line 124
+2020-02-07 11:20:12 - PHP Notice:  Error: Could not load language ! in /web/htdocs2/flakoncz/home/www/system/library/language.php on line 39
+2020-02-07 11:20:12 - PHP Notice:  unserialize(): Error at offset 0 of 8023 bytes in /web/htdocs2/flakoncz/home/www/system/library/user.php on line 23
+2020-02-07 11:20:13 - PHP Notice:  Undefined index: filename in /web/htdocs2/flakoncz/home/www/admin/index.php on line 124
+2020-02-07 11:20:13 - PHP Notice:  Error: Could not load language ! in /web/htdocs2/flakoncz/home/www/system/library/language.php on line 39
+2020-02-07 11:20:13 - PHP Notice:  unserialize(): Error at offset 0 of 8023 bytes in /web/htdocs2/flakoncz/home/www/system/library/user.php on line 23
+2020-02-07 11:20:28 - PHP Notice:  Undefined index: filename in /web/htdocs2/flakoncz/home/www/index2.php on line 184
+2020-02-07 11:20:28 - PHP Notice:  Error: Could not load language ! in /web/htdocs2/flakoncz/home/www/system/library/language.php on line 39
+2020-02-07 11:20:35 - PHP Notice:  Undefined index: filename in /web/htdocs2/flakoncz/home/www/index2.php on line 184
+2020-02-07 11:20:35 - PHP Notice:  Error: Could not load language ! in /web/htdocs2/flakoncz/home/www/system/library/language.php on line 39
+2020-02-07 11:20:35 - PHP Notice:  Undefined index: filename in /web/htdocs2/flakoncz/home/www/catalog/model/localisation/language.php on line 25
+2020-02-07 11:21:04 - PHP Notice:  Undefined index: filename in /web/htdocs2/flakoncz/home/www/admin/index.php on line 124
+2020-02-07 11:21:04 - PHP Notice:  Error: Could not load language ! in /web/htdocs2/flakoncz/home/www/system/library/language.php on line 39
+2020-02-07 11:21:04 - PHP Notice:  unserialize(): Error at offset 0 of 8023 bytes in /web/htdocs2/flakoncz/home/www/system/library/user.php on line 23
+2020-02-07 11:21:05 - PHP Notice:  Undefined index: filename in /web/htdocs2/flakoncz/home/www/admin/index.php on line 124
+2020-02-07 11:21:05 - PHP Notice:  Error: Could not load language ! in /web/htdocs2/flakoncz/home/www/system/library/language.php on line 39
+2020-02-07 11:21:05 - PHP Notice:  unserialize(): Error at offset 0 of 8023 bytes in /web/htdocs2/flakoncz/home/www/system/library/user.php on line 23
+2020-02-07 11:21:07 - PHP Notice:  Undefined index: filename in /web/htdocs2/flakoncz/home/www/admin/index.php on line 124
+2020-02-07 11:21:07 - PHP Notice:  Error: Could not load language ! in /web/htdocs2/flakoncz/home/www/system/library/language.php on line 39
+2020-02-07 11:21:07 - PHP Notice:  unserialize(): Error at offset 0 of 8023 bytes in /web/htdocs2/flakoncz/home/www/system/library/user.php on line 23
+2020-02-07 11:21:08 - PHP Notice:  Undefined index: filename in /web/htdocs2/flakoncz/home/www/admin/index.php on line 124
+2020-02-07 11:21:08 - PHP Notice:  Error: Could not load language ! in /web/htdocs2/flakoncz/home/www/system/library/language.php on line 39
+2020-02-07 11:21:08 - PHP Notice:  unserialize(): Error at offset 0 of 8023 bytes in /web/htdocs2/flakoncz/home/www/system/library/user.php on line 23
+2020-02-07 11:21:09 - PHP Notice:  Undefined index: filename in /web/htdocs2/flakoncz/home/www/admin/index.php on line 124
+2020-02-07 11:21:09 - PHP Notice:  Error: Could not load language ! in /web/htdocs2/flakoncz/home/www/system/library/language.php on line 39
+2020-02-07 11:21:09 - PHP Notice:  unserialize(): Error at offset 0 of 8023 bytes in /web/htdocs2/flakoncz/home/www/system/library/user.php on line 23
+2020-02-07 11:21:15 - PHP Notice:  Undefined index: filename in /web/htdocs2/flakoncz/home/www/admin/index.php on line 124
+2020-02-07 11:21:15 - PHP Notice:  Error: Could not load language ! in /web/htdocs2/flakoncz/home/www/system/library/language.php on line 39
+2020-02-07 11:21:15 - PHP Notice:  unserialize(): Error at offset 0 of 8023 bytes in /web/htdocs2/flakoncz/home/www/system/library/user.php on line 23
+2020-02-07 11:21:20 - PHP Notice:  Undefined index: filename in /web/htdocs2/flakoncz/home/www/admin/index.php on line 124
+2020-02-07 11:21:20 - PHP Notice:  Error: Could not load language ! in /web/htdocs2/flakoncz/home/www/system/library/language.php on line 39
+2020-02-07 11:21:20 - PHP Notice:  unserialize(): Error at offset 0 of 8023 bytes in /web/htdocs2/flakoncz/home/www/system/library/user.php on line 23
+2020-02-07 11:21:20 - PHP Notice:  unserialize(): Error at offset 0 of 8023 bytes in /web/htdocs2/flakoncz/home/www/system/library/user.php on line 47
+2020-02-07 11:21:20 - PHP Notice:  Undefined index: filename in /web/htdocs2/flakoncz/home/www/admin/index.php on line 124
+2020-02-07 11:21:20 - PHP Notice:  Error: Could not load language ! in /web/htdocs2/flakoncz/home/www/system/library/language.php on line 39
+2020-02-07 11:21:20 - PHP Notice:  unserialize(): Error at offset 0 of 8023 bytes in /web/htdocs2/flakoncz/home/www/system/library/user.php on line 23
+2020-02-07 11:21:20 - PHP Notice:  Undefined index: filename in /web/htdocs2/flakoncz/home/www/admin/index.php on line 124
+2020-02-07 11:21:20 - PHP Notice:  Error: Could not load language ! in /web/htdocs2/flakoncz/home/www/system/library/language.php on line 39
+2020-02-07 11:21:20 - PHP Notice:  unserialize(): Error at offset 0 of 8023 bytes in /web/htdocs2/flakoncz/home/www/system/library/user.php on line 23
+2020-02-07 11:21:21 - PHP Notice:  Undefined index: filename in /web/htdocs2/flakoncz/home/www/admin/index.php on line 124
+2020-02-07 11:21:21 - PHP Notice:  Error: Could not load language ! in /web/htdocs2/flakoncz/home/www/system/library/language.php on line 39
+2020-02-07 11:21:21 - PHP Notice:  unserialize(): Error at offset 0 of 8023 bytes in /web/htdocs2/flakoncz/home/www/system/library/user.php on line 23
+2020-02-07 11:21:31 - PHP Notice:  Undefined index: filename in /web/htdocs2/flakoncz/home/www/admin/index.php on line 124
+2020-02-07 11:21:31 - PHP Notice:  Error: Could not load language ! in /web/htdocs2/flakoncz/home/www/system/library/language.php on line 39
+2020-02-07 11:21:31 - PHP Notice:  unserialize(): Error at offset 0 of 8023 bytes in /web/htdocs2/flakoncz/home/www/system/library/user.php on line 23
+2020-02-07 11:21:36 - PHP Notice:  Undefined index: filename in /web/htdocs2/flakoncz/home/www/admin/index.php on line 124
+2020-02-07 11:21:36 - PHP Notice:  Error: Could not load language ! in /web/htdocs2/flakoncz/home/www/system/library/language.php on line 39
+2020-02-07 11:21:36 - PHP Notice:  unserialize(): Error at offset 0 of 8023 bytes in /web/htdocs2/flakoncz/home/www/system/library/user.php on line 23
+2020-02-07 11:21:37 - PHP Notice:  Undefined index: filename in /web/htdocs2/flakoncz/home/www/admin/index.php on line 124
+2020-02-07 11:21:37 - PHP Notice:  Error: Could not load language ! in /web/htdocs2/flakoncz/home/www/system/library/language.php on line 39
+2020-02-07 11:21:37 - PHP Notice:  unserialize(): Error at offset 0 of 8023 bytes in /web/htdocs2/flakoncz/home/www/system/library/user.php on line 23
+2020-02-07 12:03:25 - PHP Notice:  Undefined index: filename in /web/htdocs2/flakoncz/home/www/index2.php on line 184
+2020-02-07 12:03:25 - PHP Notice:  Error: Could not load language ! in /web/htdocs2/flakoncz/home/www/system/library/language.php on line 39
+2020-02-07 12:03:36 - PHP Notice:  Undefined index: filename in /web/htdocs2/flakoncz/home/www/admin/index.php on line 124
+2020-02-07 12:03:36 - PHP Notice:  Error: Could not load language ! in /web/htdocs2/flakoncz/home/www/system/library/language.php on line 39
+2020-02-07 12:03:37 - PHP Notice:  Undefined index: filename in /web/htdocs2/flakoncz/home/www/admin/index.php on line 124
+2020-02-07 12:03:37 - PHP Notice:  Error: Could not load language ! in /web/htdocs2/flakoncz/home/www/system/library/language.php on line 39
+2020-02-07 12:03:43 - PHP Notice:  Undefined index: filename in /web/htdocs2/flakoncz/home/www/admin/index.php on line 124
+2020-02-07 12:03:43 - PHP Notice:  Error: Could not load language ! in /web/htdocs2/flakoncz/home/www/system/library/language.php on line 39
+2020-02-07 12:03:43 - PHP Notice:  unserialize(): Error at offset 0 of 8023 bytes in /web/htdocs2/flakoncz/home/www/system/library/user.php on line 47
+2020-02-07 12:03:43 - PHP Notice:  Undefined index: filename in /web/htdocs2/flakoncz/home/www/admin/index.php on line 124
+2020-02-07 12:03:43 - PHP Notice:  Error: Could not load language ! in /web/htdocs2/flakoncz/home/www/system/library/language.php on line 39
+2020-02-07 12:03:43 - PHP Notice:  unserialize(): Error at offset 0 of 8023 bytes in /web/htdocs2/flakoncz/home/www/system/library/user.php on line 23
+2020-02-07 12:03:43 - PHP Notice:  Undefined index: filename in /web/htdocs2/flakoncz/home/www/admin/index.php on line 124
+2020-02-07 12:03:43 - PHP Notice:  Error: Could not load language ! in /web/htdocs2/flakoncz/home/www/system/library/language.php on line 39
+2020-02-07 12:03:43 - PHP Notice:  unserialize(): Error at offset 0 of 8023 bytes in /web/htdocs2/flakoncz/home/www/system/library/user.php on line 23
